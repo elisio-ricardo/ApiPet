@@ -6,6 +6,8 @@ API para criação de um cadastro de Pets e seu Dono, onde é possivel fazer um 
 
 E o swagger para observar os endpoints e a documentação
 
+Algumas informaçoes já estão sendo previamente adicionada, confira as configurações do banco de dados no properties
+
 Documentação: http://localhost:8080/swagger-ui.html#
 
 ## Login para o token
