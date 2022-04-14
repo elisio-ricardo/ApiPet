@@ -1,6 +1,6 @@
 # API REST PET
 
-API para criação de um cadastro de Pets e seu Dono, onde é possivel adicionar um ou uma lista de Pets ao dono
+API para criação de um cadastro de Pets e seu Dono, onde é possivel fazer um CRUD do dono e seus pets.
 
 Documentação: http://localhost:8080/swagger-ui.html#
 
